@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnPessoasId"
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="Pessoas" />
+
+    <item
+        android:id="@+id/mnConsumoId"
+        android:icon="@drawable/ic_restaurant_black_24dp"
+        android:title="Consumo" />
+
+    <item
+        android:id="@+id/mnGorjetaId"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Taxa de Serviço" />
+
+</menu>
